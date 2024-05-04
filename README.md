@@ -8,8 +8,7 @@ Neste projeto, explorei a integração da biblioteca Font Awesome com React, amp
 <p>A estrutura do projeto foi cuidadosamente organizada, com pastas dedicadas a diferentes aspectos funcionais. A pasta "assets" foi reservada para recursos visuais, como a imagem de fundo da aplicação. Os componentes foram agrupados na pasta "Components", onde cada componente teve sua própria folha de estilos CSS para melhor organização e manutenção do código, como podem analisar acima!</p>
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p>Utilizei o netfly-app para hospedagem desse meu projeto!</p>
-<a href="https://reactlogintela.netlify.app/">Aqui está o link!</a>
+<p>Baixe o arquivo zip para rodar o projeto dentro da sua maquina e visualiza-lo!</p>
 
 
 ![image](https://github.com/DevGustavoGantois/TelaDeLoginEmReact/assets/123424700/70e02ea4-2f30-4113-8a82-0522a3238126)
