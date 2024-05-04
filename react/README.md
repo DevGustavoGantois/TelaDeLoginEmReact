@@ -1,4 +1,4 @@
-<a href"https://reactlogintela.netlify.app/">Clique aqui para ver o projeto!</a>
+<a href="https://reactlogintela.netlify.app/">Clique aqui para ver o projeto!</a>
 
 <H1>Este projeto é um Projeto de Login Screen</H1>
 <p>Gostaria de compartilhar meu primeiro projeto desenvolvido com o framework React, uma plataforma que sempre me despertou interesse por sua robustez e flexibilidade.
@@ -9,7 +9,7 @@ Neste projeto, explorei a integração da biblioteca Font Awesome com React, amp
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p>Utilizei o netfly-app para hospedagem desse meu projeto!</p>
-<a href"https://reactlogintela.netlify.app/">Aqui está o link!</a>
+<a href="https://reactlogintela.netlify.app/">Aqui está o link!</a>
 
 
 ![image](https://github.com/DevGustavoGantois/TelaDeLoginEmReact/assets/123424700/70e02ea4-2f30-4113-8a82-0522a3238126)
