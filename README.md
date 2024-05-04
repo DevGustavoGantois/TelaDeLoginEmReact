@@ -1,4 +1,4 @@
-<a href="https://reactlogintela.netlify.app/">Clique aqui para ver o projeto!</a>
+
 
 <H1>Este projeto é um Projeto de Login Screen</H1>
 <p>Gostaria de compartilhar meu primeiro projeto desenvolvido com o framework React, uma plataforma que sempre me despertou interesse por sua robustez e flexibilidade.
